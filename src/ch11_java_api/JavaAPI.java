@@ -2,13 +2,6 @@ package ch11_java_api;
 
 import java.text.ParseException;
 
-import util.APIDate;
-import util.APIFormat;
-import util.APIJSON;
-import util.APIMath;
-import util.APIPattern;
-import util.APIStringBuffer;
-
 
 /******************************************************
 *

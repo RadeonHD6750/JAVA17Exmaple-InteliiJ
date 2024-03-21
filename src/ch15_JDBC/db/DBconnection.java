@@ -5,7 +5,8 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-import fileIO.FileIO;
+import ch15_JDBC.db.*;
+import ch15_JDBC.fileIO.*;
 
 
 /******************************************************

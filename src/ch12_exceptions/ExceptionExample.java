@@ -1,11 +1,13 @@
 package ch12_exceptions;
 
+import ch10_Class.Person;
+
 import java.text.ParseException;
 import java.util.Random;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-import ch10_person.Person;
+import ch10_Class.*;
 
 /******************************************************
 *

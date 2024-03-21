@@ -6,8 +6,8 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.HashMap;
 
-import account.AccountServiceImpl;
-import account.AccoutService;
+import ch15_JDBC.account.AccountServiceImpl;
+import ch15_JDBC.account.AccoutService;
 
 
 /******************************************************

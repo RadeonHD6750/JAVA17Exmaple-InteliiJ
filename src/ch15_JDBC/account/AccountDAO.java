@@ -1,13 +1,15 @@
 package ch15_JDBC.account;
 
+import ch15_JDBC.db.DBconnection;
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.HashMap;
 
-import db.DBconnection;
-import fileIO.FileIO;
+import ch15_JDBC.db.*;
+import ch15_JDBC.fileIO.*;
 
 public class AccountDAO {
 	
