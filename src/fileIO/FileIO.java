@@ -1,4 +1,4 @@
-package ch13_fileIO;
+package fileIO;
 
 import java.io.*;
 import java.util.Iterator;

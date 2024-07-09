@@ -1,12 +1,11 @@
-package ch15_JDBC.db;
+package JDBC.db;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-import ch15_JDBC.db.*;
-import ch15_JDBC.fileIO.*;
+import JDBC.fileIO.*;
 
 
 /******************************************************

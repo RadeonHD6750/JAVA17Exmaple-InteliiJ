@@ -1,4 +1,4 @@
-package ch15_JDBC.account;
+package JDBC.account;
 
 import java.sql.SQLException;
 import java.util.HashMap;

@@ -1,13 +1,8 @@
-package ch15_JDBC.db;
+package JDBC.db;
 
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
 import java.util.HashMap;
 
-import ch15_JDBC.account.AccountServiceImpl;
-import ch15_JDBC.account.AccoutService;
+import JDBC.account.AccountServiceImpl;
 
 
 /******************************************************

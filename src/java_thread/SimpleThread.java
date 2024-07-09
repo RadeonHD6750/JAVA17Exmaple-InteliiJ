@@ -1,4 +1,4 @@
-package ch14_JavaThread;
+package java_thread;
 
 
 

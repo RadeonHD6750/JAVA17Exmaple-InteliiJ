@@ -1,6 +1,5 @@
-package ch13_fileIO;
+package fileIO;
 
-import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;

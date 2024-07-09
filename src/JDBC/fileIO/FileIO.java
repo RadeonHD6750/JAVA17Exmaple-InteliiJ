@@ -1,4 +1,4 @@
-package ch15_JDBC.fileIO;
+package JDBC.fileIO;
 
 import java.io.*;
 import java.util.Iterator;

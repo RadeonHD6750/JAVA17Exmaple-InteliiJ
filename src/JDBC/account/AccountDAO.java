@@ -1,6 +1,6 @@
-package ch15_JDBC.account;
+package JDBC.account;
 
-import ch15_JDBC.db.DBconnection;
+import JDBC.db.DBconnection;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -8,8 +8,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.HashMap;
 
-import ch15_JDBC.db.*;
-import ch15_JDBC.fileIO.*;
+import JDBC.fileIO.*;
 
 public class AccountDAO {
 	
